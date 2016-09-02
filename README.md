@@ -1,3 +1,3 @@
 # getwings
 
-# JSON parsing using PHP to retrieve coordinates of locations and displaying on Google Maps with details
+JSON parsing using PHP to retrieve coordinates of locations from an API and displaying on Google Maps with markers and details
